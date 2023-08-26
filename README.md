@@ -19,3 +19,5 @@
 📬 Let's connect! Find me here on GitHub or [LinkedIn/Twitter/Website]. Innovation awaits!
 
 🌈 "Stay hungry, stay foolish." - Steve Jobs
+
+[![piyush-hash's GitHub | Stats](https://stats.quine.sh/piyush-hash/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=piyush-hash)
